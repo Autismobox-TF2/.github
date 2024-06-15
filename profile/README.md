@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/autismobox_logo_transparent.png" width="33%">
+  <img src="https://github.com/Autismobox-TF2/.github/blob/main/images/autismobox_logo_transparent.png" width="33%">
 </p>
 <p align="center">
   We update TF2 to be more casual and less competitive.
@@ -12,7 +12,7 @@ We want people to be able to replicate and use our work 1:1.
 
 
 <p align="center">
-  <img src="images/casual-competitivegraph.png" width="50%">
+  <img src="https://github.com/Autismobox-TF2/.github/blob/main/images/casual-competitivegraph.png" width="50%">
 </p>
 
 <!--
